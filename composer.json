@@ -2,5 +2,8 @@
     "name": "speakerstats/twitter-bootstrap",
     "authors": [{"name": "Twitter, Inc"}],
     "type": "library",
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "require-dev": {
+        "leafo/lessphp": "0.3.5"
+    }
 }

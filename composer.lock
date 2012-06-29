@@ -1,0 +1,19 @@
+{
+    "hash": "1a559670e1a3edb17683327b72a3f45e",
+    "packages": [
+
+    ],
+    "packages-dev": [
+        {
+            "package": "leafo/lessphp",
+            "version": "v0.3.5"
+        }
+    ],
+    "aliases": [
+
+    ],
+    "minimum-stability": "dev",
+    "stability-flags": [
+
+    ]
+}
