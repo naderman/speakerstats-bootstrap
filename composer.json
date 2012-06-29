@@ -1,0 +1,6 @@
+{
+    "name": "speakerstats/twitter-bootstrap",
+    "authors": [{"name": "Twitter, Inc"}],
+    "type": "library",
+    "license": "Apache-2.0"
+}
